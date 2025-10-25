@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Zave – Nearby Shopping Assistant</string>
+
+
+    <string name="google_maps_key">AIzaSyBZcoMORaxPzCd6As6zex9Bam6EHVq7ZhA</string>
+
+
+    <string name="default_web_client_id">
+        163092862350-ser1dc79e0qhesrhi3u52vvuno43kg8u.apps.googleusercontent.com
+    </string>
+</resources>
