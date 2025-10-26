@@ -3,7 +3,9 @@
 🛒 Project Overview
 Zave – Nearby Shopping Assistant is a native Android application designed to help users quickly find stores and shopping locations near their current geographical position. It leverages modern Android development libraries for authentication, location services, persistence, and networking.
 
+
 ✨ Features
+
 User Authentication: Secure sign-in and sign-up using Firebase Authentication for Email/Password and Google Sign-In.
 
 Nearby Search: Search for stores based on a user-provided keyword within a configurable radius.
@@ -15,6 +17,7 @@ Dynamic Configuration: Implements a RemoteConfigHelper (simulated via SharedPref
 Local Caching: Stores recent search queries and cached store results using Room Database for a better offline experience.
 
 Map Integration: Displays search results and provides a shortcut to open the store's location in the native Google Maps application.
+
 
 🛠️ Technology Stack
 
@@ -31,6 +34,8 @@ UI/UX	Coil, RecyclerView	Efficient image loading and displaying lists of stores.
 
 
 📂 Project Structure Highlights
+
+
 The application follows a standard package structure:
 
 com.example.zavenearbyshoppingassistant (UI)
@@ -55,7 +60,10 @@ RemoteConfigHelper.kt: A utility class simulating Firebase Remote Config via Sha
 
 PlacesService.kt: A wrapper for making raw HTTP calls to the search API.
 
+
+
 🔑 Setup and Configuration
+
 To run this project, you need to configure your Firebase project and provide a Google Maps API Key.
 
 Firebase Project:
@@ -84,7 +92,9 @@ Ensure the required plugins are applied in your root and app build.gradle.kts fi
 
 The app uses Kotlin Coroutines, Room, Coil, and OkHttp, which are already defined in the app-level build.gradle.kts.
 
+
 ▶️ Running the App
+
 Sync the project with Gradle.
 
 Run the application on an Android device or emulator.
