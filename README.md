@@ -108,14 +108,7 @@ Enter a query (e.g., "supermarket" or "pharmacy") and press "Search Nearby Store
 The results will be displayed, and clicking an item will take you to Google Maps.
 
                                                 PROJECT DISPLAY 
-
-                                               ![WhatsApp Image 2025-10-26 at 5 14 59 PM](https://github.com/user-attachments/assets/8b106d8c-82e3-4f37-bfcd-9b96308a6029)
-                                               ![WhatsApp Image 2025-10-26 at 5 14 59 PM (1)](https://github.com/user-attachments/assets/5515187e-0b67-4f16-9068-8cda807b36fe)
-                                               ![WhatsApp Image 2025-10-26 at 5 14 59 PM (2)](https://github.com/user-attachments/assets/cea81d1d-2a6d-491d-af29-85e2959a13b3)
-                                               ![WhatsApp Image 2025-10-26 at 5 14 59 PM (3)](https://github.com/user-attachments/assets/a349a16a-a852-4b5f-82d4-d81af1171a22)
-                                               ![WhatsApp Image 2025-10-26 at 5 14 58 PM](https://github.com/user-attachments/assets/7f6f8342-7fe4-4479-8ce5-e788df4d98cd)
-                                               ![WhatsApp Image 2025-10-26 at 5 14 58 PM (1)](https://github.com/user-attachments/assets/05d2ee48-432b-46ea-9df1-dcbfd3d12a87)
-                                               ![WhatsApp Image 2025-10-26 at 5 14 58 PM (2)](https://github.com/user-attachments/assets/42f45849-bc7e-4721-a7ce-a04bdae08485)
+![WhatsApp Image 2025-10-26 at 5 14 59 PM](https://github.com/user-attachments/assets/8b106d8c-82e3-4f37-bfcd-9b96308a6029)
 
 
 
