@@ -1,4 +1,5 @@
-Zave – Nearby Shopping Assistant
+                                                                                Zave – Nearby Shopping Assistant
+                                                                                
 🛒 Project Overview
 Zave – Nearby Shopping Assistant is a native Android application designed to help users quickly find stores and shopping locations near their current geographical position. It leverages modern Android development libraries for authentication, location services, persistence, and networking.
 
